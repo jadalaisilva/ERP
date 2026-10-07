@@ -1,0 +1,8 @@
+# Exclusive settngs for the machine
+config/config.local.php
+conexion.php
+
+# Files that we will generate
+logs/
+temps/
+*.log
