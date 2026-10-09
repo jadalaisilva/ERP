@@ -7,3 +7,7 @@ Este repositorio contiene las prácticas de versionamiento y control del ERP de 
 # Nuevas características
 
 Se añade una mejor documentación al proyecto.
+
+# Usuarios principales del módulo
+
+El módulo será utilizado principalmente por el personal de Recursos Humanos autorizado.
